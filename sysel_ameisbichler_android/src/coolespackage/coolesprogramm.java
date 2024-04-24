@@ -6,7 +6,7 @@ public static void main(String[] args) {
 
 public void thisIsANewMethod() {
 	double counter;
-	this.thisIsANewMethod(); //Hihi rekursion
+	//this.thisIsANewMethod(); //Does nothing.
 }
 
 public void cooleSyselMethode() {
