@@ -5,7 +5,7 @@ public static void main(String[] args) {
 }
 
 public void thisIsANewMethod() {
-	double counter;
+	int counter;
 	//this.thisIsANewMethod(); //Does nothing.
 }
 
