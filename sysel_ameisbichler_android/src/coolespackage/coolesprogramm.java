@@ -5,9 +5,9 @@ public static void main(String[] args) {
 }
 
 public void thisIsANewMethod() {
-	double counter;
-	int counterGanzzahl;
-	this.thisIsANewMethod(); //Hihi rekursion
+	int counter;
+	//this.thisIsANewMethod(); //Does nothing.
+	counter++;
 }
 
 public void cooleSyselMethode() {
