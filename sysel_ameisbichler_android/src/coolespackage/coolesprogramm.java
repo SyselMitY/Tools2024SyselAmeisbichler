@@ -11,5 +11,6 @@ public void thisIsANewMethod() {
 }
 
 public void cooleSyselMethode() {
+	//ACHTUNG, Angabeleser wissen nicht immer mehr, Angabelesen erhöht nur WIS, nicht INT
 	System.out.println("Angabeleser wissen mehr");
 }
