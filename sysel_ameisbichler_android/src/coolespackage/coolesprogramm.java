@@ -5,7 +5,7 @@ public static void main(String[] args) {
 }
 
 public void thisIsANewMethod() {
-
+	this.thisIsANewMethod(); //Hihi rekursion
 }
 
 public void cooleSyselMethode() {
