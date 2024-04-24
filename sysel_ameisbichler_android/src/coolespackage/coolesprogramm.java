@@ -7,6 +7,7 @@ public static void main(String[] args) {
 public void thisIsANewMethod() {
 	int counter;
 	//this.thisIsANewMethod(); //Does nothing.
+	counter++;
 }
 
 public void cooleSyselMethode() {
